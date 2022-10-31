@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qfp80pl40gss8abw?svg=true)](https://ci.appveyor.com/project/Grey601/javaautomation-api-ci)
